@@ -16,6 +16,12 @@
         "neos/neos": "^5.3 || ^7.0 || ^8.0",
         "neos/utility-files": "^6.3 || ^7.0 || ^8.0"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:erkenes/shariff-backend-php.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Networkteam\\Neos\\Shariff\\": "Classes"
