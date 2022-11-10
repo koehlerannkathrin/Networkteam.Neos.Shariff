@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "guzzlehttp/psr7": "^1.8.4 || ^2.1.1",
-        "heise/shariff": "dev-main",
+        "heise/shariff": "dev-master",
         "neos/neos": "^5.3 || ^7.0 || ^8.0",
         "neos/utility-files": "^6.3 || ^7.0 || ^8.0"
     },
